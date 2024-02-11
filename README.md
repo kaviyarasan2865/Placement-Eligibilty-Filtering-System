@@ -19,13 +19,13 @@ This is a web-based system developed using PHP for managing placement eligibilit
 
 1. Clone the repository:
 
-2. Set up the database by importing the provided SQL file (`database.sql`) into your MySQL database.
+2. Create database with the name included in php file.
 
-3. Configure the database connection by editing the `config.php` file with your database credentials.
+3. create the tables with fieds required
 
-4. Upload the project files to your web server.
+4. Upload the project files to your web server or local server.
 
-5. Access the application through your web browser.
+5. Access the application through your web browser/local servers.
 
 ## Usage
 
